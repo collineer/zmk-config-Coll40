@@ -1,0 +1,6 @@
+if SHIELD_COLL40
+
+config ZMK_KEYBOARD_NAME
+    default "coll40"
+
+endif
