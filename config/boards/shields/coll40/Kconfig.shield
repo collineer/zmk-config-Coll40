@@ -1,2 +1,2 @@
 config SHIELD_COLL40
-    def_bool $(shield_list_contains, coll40)
+    def_bool $(shields_list_contains,coll40)
