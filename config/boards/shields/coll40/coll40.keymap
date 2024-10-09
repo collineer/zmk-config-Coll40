@@ -17,7 +17,7 @@
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <200>;
-            bindings = <&kp LSHIFT>, <&none>, <&kp CAPS>;
+            bindings = <&kp LSHIFT>, <&kp LSHIFT>, <&kp CAPS>;
         };
 
         td_ly: tap_dance_layers {
