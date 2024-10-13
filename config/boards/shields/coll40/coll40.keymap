@@ -23,7 +23,7 @@
          td_tab: tap_dance_tab {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <200>;
+            tapping-term-ms = <100>;
             bindings = <&kp TAB>, <&kp TAB>, <&kp CAPS>;
         };
 
